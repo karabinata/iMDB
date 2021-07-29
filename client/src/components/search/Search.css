@@ -1,0 +1,15 @@
+.search-wrapper {
+    width: 30%;
+    display: flex;
+}
+
+.search-wrapper .search-input {
+    margin-right: 5px;
+    border-radius: 5px;
+}
+
+.search-wrapper .search-btn {
+    color: green;
+    border-color: green;
+    border-radius: 5px;
+}

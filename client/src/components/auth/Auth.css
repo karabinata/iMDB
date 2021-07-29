@@ -1,0 +1,13 @@
+.auth-form {
+    margin: auto;
+    width: 50%;
+}
+
+.auth-btns-wrapper {
+    display: flex;
+    margin: 10px auto;
+}
+
+.error {
+    color: red;
+}

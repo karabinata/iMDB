@@ -1,0 +1,1 @@
+exports.MAX_SUMMARY_LENGTH = 450;

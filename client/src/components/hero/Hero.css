@@ -1,0 +1,38 @@
+.hero-info-wrapper {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    line-height: normal;
+    color: #fff;
+    max-width: 40%;
+    z-index: 1;
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 10px;
+    margin: 0 10px;
+    padding: 10px;
+    text-align: left;
+}
+
+.hero-search-btn {
+    background-color: dodgerblue;
+    color: #fff;
+    margin-top: 10px;
+    min-width: 100px;
+    border-radius: 5px;
+}
+
+.hero-info-wrapper h3 {
+    color: #fff;
+}
+
+.hero-container {
+    position: relative;
+}
+
+.hero-container .ant-image {
+    width: 100%;
+}
+
+.hero-image {
+    aspect-ratio: 21 / 9;
+}

@@ -1,0 +1,20 @@
+.header {
+    position: relative;
+    background-color: lightgray;
+}
+
+.header-search {
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
+
+.home-btn {
+    font-size: 1.5rem;
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    transform: translateY(-50%);
+}

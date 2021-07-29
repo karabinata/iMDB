@@ -1,0 +1,42 @@
+.movie-container {
+    position: relative;
+    margin: 20px;
+    display: grid;
+    column-gap: 20px;
+    justify-content: flex-start;
+    text-decoration: none;
+    color: black;
+}
+
+.genres {
+    margin: 10px 0;
+}
+
+.movie-container:hover {
+    color: black;
+}
+
+.movie-info {
+    height: 95%;
+    grid-row-start: 1;
+    grid-column-start: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
+
+.movie-action-btn {
+    position: absolute;
+    bottom: 10px;
+    border-radius: 5px;
+}
+
+.remove-btn {
+    border-color: red;
+    color: red;
+}
+
+.add-btn {
+    border-color: green;
+    color: green;
+}

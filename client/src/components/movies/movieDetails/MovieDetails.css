@@ -1,0 +1,10 @@
+.star-wrapper {
+    text-align: left;
+    margin: 20px;
+    line-height: normal;
+}
+
+.review-textarea {
+    margin: 20px;
+    width: 50%;
+}
